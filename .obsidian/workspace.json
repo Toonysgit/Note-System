@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Here.md",
+                "file": "02 AREAS/Testing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Here.md",
+                "file": "02 AREAS/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start Here.md",
+                "file": "02 AREAS/Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start Here.md"
+                "file": "02 AREAS/Testing.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Start Here.md",
+                "file": "02 AREAS/Testing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,13 +246,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9b98ae917de1f9bc",
+  "active": "74de0d0c0927636b",
   "lastOpenFiles": [
+    "Start Here.md",
+    "02 AREAS/Testing.md",
+    "README.md",
     "My Resources.md",
     "My Archives.md",
     "My Areas.md",
     "My Projects.md",
-    "Start Here.md",
     "03 RECURSOS/Untitled 3.md",
     "01 PROYECTOS/Proyecto Analisis OnChain para encontrar gemas.md",
     "03 RECURSOS/BaseCamp Complete Guide on Contracts Deployment.md",
@@ -282,8 +284,6 @@
     "03 RECURSOS/Trading De Criptomonedas En 2024.md",
     "03 RECURSOS/Guia para Cazar la Cripto Gemas.md",
     "03 RECURSOS/Analisis OnChain.md",
-    "Periodic/Days/2024-03-05.md",
-    "01 PROYECTOS/Informe del Proyecto -- Juego vs Recreacionales.md",
     "vs pasivos beteamos grande por value en flop y",
     "000 📚 Bibliografía/Poker Fundamentos - DD/ATTACHMENTS",
     "TEMPLATES/ATTACHMENTS",
