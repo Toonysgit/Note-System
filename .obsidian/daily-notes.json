@@ -1,0 +1,6 @@
+{
+  "autorun": false,
+  "format": "YYYY MM DD dddd",
+  "folder": "Diarios",
+  "template": "TEMPLATES/diarios_template"
+}

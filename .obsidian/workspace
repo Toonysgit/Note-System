@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "bf2c0c764f8db65a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bda035672123416",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diarios/18_03_2023 Saturday.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91109a5f8ceba1e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "344f87d295743855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b98ae917de1f9bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a029264796827af0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".pdf",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5aace2f435a34f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4ac398e0cf92d565",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cf16ce3a40d9114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "736e0bb504d5465a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diarios/18_03_2023 Saturday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c3e60acf4d51b3af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diarios/18_03_2023 Saturday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4752f141972a9cd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3364527f0efddfc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diarios/18_03_2023 Saturday.md"
+              }
+            }
+          },
+          {
+            "id": "b17aa170240bf528",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b264f466bbd62b4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8bda035672123416",
+  "lastOpenFiles": [
+    "Diarios/18_03_2023 Saturday.md",
+    "Diarios/2022_10_13.md",
+    "Diarios/2022_10_12.md",
+    "03 RECURSOS/Educapoker - Universidad - Estrategia Postflop - Segun Board.md",
+    "Templates/diarios_template.md",
+    "03 RECURSOS/Estrategia Deepstack - Juego postflop - Resumen.md",
+    "Diarios/2022_10_08.md",
+    "Diarios/2022_10_07.md",
+    "03 RECURSOS/Estrategia Multistack - Juego preflop.md",
+    "Diarios/2022_10_06.md"
+  ]
+}

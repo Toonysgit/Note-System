@@ -1,0 +1,93 @@
+.red {
+  color: rgb(172, 91, 91);
+}
+.green {
+  color: rgb(19, 155, 19);
+}
+.cyan {
+  color: cyan;
+}
+.orange {
+  color: orange;
+}
+.tag {
+  background-color: var(--text-accent);
+  border: none;
+  color: white !important;
+  font-size: 11px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+.tag:hover {
+  color: white;
+}
+.tag[href^="#obsidian"] {
+  background-color: #4d3ca6;
+}
+.tag[href^="#raise_f_cb"],
+.tag[href^="#f_cb"],
+.tag[href^="#t_cb"],
+.tag[href^="#r_bet"] {
+  background-color: red;
+}
+.tag[href^="#complete"],
+.tag[href^="#f3b"] {
+  background-color: green;
+}
+.tag[href^="#EP"],
+.tag[href^="#MP"],
+.tag[href^="#inprogress"],
+.tag[href^="#3b"] {
+  background-color: orange;
+}
+.tag[href^="#fold_f_cb"],
+.tag[href^="#fold_t_cb"],
+.tag[href^="#fold_r_bet"],
+.tag[href^="#fold_to_raise_f_cb"] {
+  background-color: yellow;
+  color: black !important;
+}
+.tag[href^="#wwsf"],
+.tag[href^="#wssd"],
+.tag[href^="#wsdwbr"] {
+  background-color: cyan;
+  color: black !important;
+}
+.tag[href^="#vpip"],
+.tag[href^="#pfr"] {
+  background-color: white;
+  color: black !important;
+}
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: rgb(37, 157, 53) !important;
+}
+
+/* Different color for italic */
+.cm-em {
+  color: #2ca153;
+  font-style: normal !important;
+}
+
+/* of italics in Preview  all notes in a vault */
+.markdown-preview-section em {
+  color: #2ca153 !important;
+  font-style: normal !important;
+}
+
+.cm-underline,
+a.external-link,
+a.internal-link {
+  text-decoration: none !important;
+  color: #dd6d22;
+}
+
+h3 {
+  color: rgb(37, 157, 53) !important;
+}

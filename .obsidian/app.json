@@ -1,0 +1,32 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./ATTACHMENTS",
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "newFileFolderPath": "03 RECURSOS",
+  "legacyEditor": false,
+  "livePreview": true,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "smartIndentList": true,
+  "tabSize": 4,
+  "foldIndent": true,
+  "useTab": true,
+  "vimMode": false,
+  "spellcheck": false,
+  "foldHeading": true,
+  "useMarkdownLinks": false,
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true
+}
