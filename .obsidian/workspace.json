@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 AREAS/Testing.md",
+                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 AREAS/Testing.md",
+                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 AREAS/Testing.md",
+                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 AREAS/Testing.md"
+                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 AREAS/Testing.md",
+                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,14 +242,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "74de0d0c0927636b",
   "lastOpenFiles": [
-    "Start Here.md",
     "02 AREAS/Testing.md",
+    "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
+    "Start Here.md",
     "README.md",
     "My Resources.md",
     "My Archives.md",
@@ -283,7 +284,6 @@
     "03 RECURSOS/Why token airdrops are a win-win marketing strategy.md",
     "03 RECURSOS/Trading De Criptomonedas En 2024.md",
     "03 RECURSOS/Guia para Cazar la Cripto Gemas.md",
-    "03 RECURSOS/Analisis OnChain.md",
     "vs pasivos beteamos grande por value en flop y",
     "000 📚 Bibliografía/Poker Fundamentos - DD/ATTACHMENTS",
     "TEMPLATES/ATTACHMENTS",
