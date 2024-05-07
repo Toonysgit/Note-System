@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
+                "file": "03 RECURSOS/Sahara AI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
+                "file": "03 RECURSOS/Sahara AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
+                "file": "03 RECURSOS/Sahara AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md"
+                "file": "03 RECURSOS/Sahara AI.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
+                "file": "03 RECURSOS/Sahara AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,13 +248,16 @@
   },
   "active": "74de0d0c0927636b",
   "lastOpenFiles": [
-    "02 AREAS/Testing.md",
     "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
+    "03 RECURSOS/Sahara AI.md",
+    "02 AREAS/Testing.md",
+    "02 AREAS/Blockchain Area.md",
+    "03 RECURSOS/Blockchain.md",
+    "My Areas.md",
     "Start Here.md",
     "README.md",
     "My Resources.md",
     "My Archives.md",
-    "My Areas.md",
     "My Projects.md",
     "03 RECURSOS/Untitled 3.md",
     "01 PROYECTOS/Proyecto Analisis OnChain para encontrar gemas.md",
@@ -281,9 +284,6 @@
     "03 RECURSOS/Re-staking, a new multi-billion dollar industry just around the corner.md",
     "02 AREAS/Blockchain.md",
     "03 RECURSOS/like a pro.md",
-    "03 RECURSOS/Why token airdrops are a win-win marketing strategy.md",
-    "03 RECURSOS/Trading De Criptomonedas En 2024.md",
-    "03 RECURSOS/Guia para Cazar la Cripto Gemas.md",
     "vs pasivos beteamos grande por value en flop y",
     "000 📚 Bibliografía/Poker Fundamentos - DD/ATTACHMENTS",
     "TEMPLATES/ATTACHMENTS",

@@ -2,7 +2,7 @@
 tags:
   - resource
 Area:
-  - "[[Blockchain]]"
+  - "[[Blockchain Area]]"
 ---
 [[Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains]]
 
