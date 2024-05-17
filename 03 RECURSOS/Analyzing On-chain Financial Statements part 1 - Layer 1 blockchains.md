@@ -6,6 +6,8 @@ Area:
 ---
 [[Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains]]
 
+https://medium.com/@vottun/analyzing-on-chain-financial-statements-part-1-layer-1-blockchains-58ccaa0a00e4
+
 ---
 What is the role of miners in the Bitcoin network according to the article?
 
@@ -20,13 +22,13 @@ Protocol developers
 ---
 How does the article describe the revenue model of Bitcoin compared to traditional companies?
 
-Highly profitable
+~~Highly profitable~~
 
-Lacking sustainability
+**Lacking sustainability**
 
 ~~Similar to dividend payments~~
 
-Very complex
+~~Very complex~~
 
 ---
 In Ethereum's financial statement, what constitutes the revenue for the protocol?

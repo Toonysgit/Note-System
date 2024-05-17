@@ -10,7 +10,7 @@ Area:
 
 A. The world's largest AI-powered desert exploration company.
 
-B. The first decentralized AI network allowing autonomous AI deployment freely and securely.
+B. **The first decentralized AI network allowing autonomous AI deployment freely and securely**.
 
 C. A new AI-powered travel service company.
 
