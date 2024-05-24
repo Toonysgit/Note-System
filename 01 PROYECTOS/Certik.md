@@ -15,6 +15,11 @@ Links:
 - [ ] [[Web3 Security with Skynet]]
 	- [ ] [[Introduction to Wallet Security]]
 	- [ ] [[Choosing a Secure Exchange]]
+	- [ ] [[Best Practices for Wallet Security]]
+	- [ ] [[Private Key Security]]
+- [ ] Skynet Rating
+	- [ ] [[Operational Security]]
+	- [ ] 
 ## Notas
 - 
 
