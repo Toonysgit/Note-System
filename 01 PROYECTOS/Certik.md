@@ -19,7 +19,8 @@ Links:
 	- [ ] [[Private Key Security]]
 - [ ] Skynet Rating
 	- [ ] [[Operational Security]]
-	- [ ] 
+	- [ ] [[Team and Insider Risks]]
+	- [ ] [[Code Security]]
 ## Notas
 - 
 
