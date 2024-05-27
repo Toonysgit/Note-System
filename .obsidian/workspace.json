@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 RECURSOS/Code Security.md",
+                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 RECURSOS/Code Security.md",
+                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 RECURSOS/Code Security.md",
+                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 RECURSOS/Code Security.md"
+                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 RECURSOS/Code Security.md",
+                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,23 +249,29 @@
   },
   "active": "74de0d0c0927636b",
   "lastOpenFiles": [
-    "03 RECURSOS/ATTACHMENTS/2024-05-25_12h22_12.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-25_12h20_27.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-25_12h19_07.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h49_32.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h49_08.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h48_19.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h47_04.jpg",
     "01 PROYECTOS/Certik.md",
+    "03 RECURSOS/Private Key Security -- Seed Phrases.md",
+    "03 RECURSOS/PEPE -- Meme.md",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h43_24.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h42_19.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h40_17.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h39_03.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h37_56.jpg",
+    "03 RECURSOS/Untitled.md",
+    "03 RECURSOS/Proyect Focus.md",
+    "03 RECURSOS/Market-Related Risks.md",
+    "03 RECURSOS/ATTACHMENTS/2024-05-26_19h11_24.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-05-26_19h09_26.jpg",
+    "03 RECURSOS/Governance and Security in DAOs.md",
     "03 RECURSOS/Code Security.md",
     "03 RECURSOS/Team and Insider Risks.md",
     "03 RECURSOS/Skynet Rating.md",
-    "03 RECURSOS/ATTACHMENTS/2024-05-25_12h12_50.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-25_12h12_06.jpg",
-    "03 RECURSOS/ATTACHMENTS/Pasted image 20240525120933.png",
     "03 RECURSOS/Operational Security.md",
-    "03 RECURSOS/ATTACHMENTS/2024-05-24_16h38_33.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-24_16h36_43.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-24_16h36_03.jpg",
     "03 RECURSOS/Private Key Security.md",
-    "03 RECURSOS/ATTACHMENTS/2024-05-24_16h26_35.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-24_16h26_13.jpg",
     "03 RECURSOS/Best Practices for Wallet Security.md",
     "02 AREAS/Web3 Security Area.md",
     "03 RECURSOS/Choosing a Secure Exchange.md",
@@ -280,12 +286,6 @@
     "03 RECURSOS/Are you the Owner❔.md",
     "03 RECURSOS/My first IPFS file.md",
     "03 RECURSOS/Analyzing On-chain Financial Statements part 2 -- Layer 2 blockchains.md",
-    "03 RECURSOS/Deploy your First ERC-721 Contract.md",
-    "03 RECURSOS/Developer.md",
-    "03 RECURSOS/Mind Mastery Challenge.md",
-    "01 PROYECTOS/CVEX.md",
-    "03 RECURSOS/Get the Token Supply.md",
-    "03 RECURSOS/Analyzing On-chain Financial Statements part 1 - Layer 1 blockchains.md",
     "vs pasivos beteamos grande por value en flop y",
     "000 📚 Bibliografía/Poker Fundamentos - DD/ATTACHMENTS",
     "TEMPLATES/ATTACHMENTS",
