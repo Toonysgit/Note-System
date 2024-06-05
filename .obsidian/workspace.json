@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
+                "file": "03 RECURSOS/Important Exchange Security Features.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
+                "file": "03 RECURSOS/Important Exchange Security Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
+                "file": "03 RECURSOS/Important Exchange Security Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md"
+                "file": "03 RECURSOS/Important Exchange Security Features.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 RECURSOS/Private Key Security -- Seed Phrases.md",
+                "file": "03 RECURSOS/Important Exchange Security Features.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,30 +249,36 @@
   },
   "active": "74de0d0c0927636b",
   "lastOpenFiles": [
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h49_32.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h49_08.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h48_19.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h47_04.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h49_39.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h48_39.jpg",
     "01 PROYECTOS/Certik.md",
+    "03 RECURSOS/Important Exchange Security Features.md",
+    "03 RECURSOS/Recognizing Risk Signals on the Exchange.md",
+    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h41_47.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h41_03.jpg",
+    "03 RECURSOS/Community and Security Risks in Web3.md",
+    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h23_21.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h22_54.jpg",
+    "03 RECURSOS/CertiK Ventures.md",
+    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h17_14.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h15_49.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h18_43.jpg",
+    "01 PROYECTOS/ATTACHMENTS/Pasted image 20240604161730.png",
+    "01 PROYECTOS/ATTACHMENTS",
+    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h13_41.jpg",
+    "03 RECURSOS/Best Practices for Wallet Security.md",
+    "03 RECURSOS/Proof of Reserve.md",
     "03 RECURSOS/Private Key Security -- Seed Phrases.md",
     "03 RECURSOS/PEPE -- Meme.md",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h43_24.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h42_19.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h40_17.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h39_03.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-27_17h37_56.jpg",
     "03 RECURSOS/Untitled.md",
     "03 RECURSOS/Proyect Focus.md",
     "03 RECURSOS/Market-Related Risks.md",
-    "03 RECURSOS/ATTACHMENTS/2024-05-26_19h11_24.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-05-26_19h09_26.jpg",
     "03 RECURSOS/Governance and Security in DAOs.md",
     "03 RECURSOS/Code Security.md",
     "03 RECURSOS/Team and Insider Risks.md",
     "03 RECURSOS/Skynet Rating.md",
     "03 RECURSOS/Operational Security.md",
     "03 RECURSOS/Private Key Security.md",
-    "03 RECURSOS/Best Practices for Wallet Security.md",
     "02 AREAS/Web3 Security Area.md",
     "03 RECURSOS/Choosing a Secure Exchange.md",
     "03 RECURSOS/Web3 Security Area.md",
@@ -281,18 +287,12 @@
     "03 RECURSOS/ATTACHMENTS",
     "03 RECURSOS/Welcome to Skynet Quest.md",
     "01 PROYECTOS/Vottun.md",
-    "03 RECURSOS/Galxe Quiz -- Hongbai Quiz 2.md",
-    "01 PROYECTOS/Mantra Chain.md",
-    "03 RECURSOS/Are you the Owner❔.md",
-    "03 RECURSOS/My first IPFS file.md",
-    "03 RECURSOS/Analyzing On-chain Financial Statements part 2 -- Layer 2 blockchains.md",
     "vs pasivos beteamos grande por value en flop y",
     "000 📚 Bibliografía/Poker Fundamentos - DD/ATTACHMENTS",
     "TEMPLATES/ATTACHMENTS",
     "03 RECURSOS/Board.canvas",
     "CC - G0.canvas",
     "02 AREAS/ATTACHMENTS",
-    "01 PROYECTOS/ATTACHMENTS",
     "Periodic/Weeks",
     "Periodic/Days",
     "Periodic",
