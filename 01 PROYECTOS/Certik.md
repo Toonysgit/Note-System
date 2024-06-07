@@ -21,6 +21,8 @@ Links:
 	- [ ] [[Proof of Reserve]]
 	- [ ] [[Recognizing Risk Signals on the Exchange]]
 	- [ ] [[Important Exchange Security Features]]
+	- [ ] [[Introduction to User Security]]
+	- [ ] [[Losses Related to Private Key Compromises]]
 - [ ] Skynet Rating
 	- [ ] [[Operational Security]]
 	- [ ] [[Team and Insider Risks]]
@@ -31,7 +33,8 @@ Links:
 	- [ ] [[Community and Security Risks in Web3]]
 - [ ] [[Proyect Focus]]
 	- [ ] [[PEPE -- Meme]]
-	- [ ] 
+	- [ ] [[Ondo Finance -- RWA]]
+	- [ ] [[TON -- Layer 1]]
 ## Notas
 - 
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e854452da6277fc0",
+        "id": "8bffbe8d78727ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "74de0d0c0927636b",
+            "id": "0309e60760523c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 RECURSOS/Important Exchange Security Features.md",
+                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 RECURSOS/Important Exchange Security Features.md",
+                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 RECURSOS/Important Exchange Security Features.md",
+                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 RECURSOS/Important Exchange Security Features.md"
+                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 RECURSOS/Important Exchange Security Features.md",
+                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,26 +247,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74de0d0c0927636b",
+  "active": "0309e60760523c2c",
   "lastOpenFiles": [
-    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h49_39.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h48_39.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-07_19h26_21.jpg",
+    "03 RECURSOS/ATTACHMENTS/Pasted image 20240607192844.png",
+    "03 RECURSOS/ATTACHMENTS/2024-06-07_19h23_08.jpg",
     "01 PROYECTOS/Certik.md",
+    "03 RECURSOS/Losses Related to Private Key Compromises.md",
+    "03 RECURSOS/Introduction to User Security.md",
+    "03 RECURSOS/ATTACHMENTS/2024-06-07_19h20_08.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-07_19h19_43.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-07_19h16_10.jpg",
+    "03 RECURSOS/Best Practices for Wallet Security.md",
+    "03 RECURSOS/Introduction to Wallet Security.md",
+    "03 RECURSOS/TON -- Layer 1.md",
+    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h54_50.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h53_52.jpg",
+    "03 RECURSOS/ATTACHMENTS/Pasted image 20240606115454.png",
+    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h52_42.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h48_15.jpg",
+    "03 RECURSOS/Ondo Finance -- RWA.md",
     "03 RECURSOS/Important Exchange Security Features.md",
     "03 RECURSOS/Recognizing Risk Signals on the Exchange.md",
-    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h41_47.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-05_11h41_03.jpg",
     "03 RECURSOS/Community and Security Risks in Web3.md",
-    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h23_21.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h22_54.jpg",
     "03 RECURSOS/CertiK Ventures.md",
-    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h17_14.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h15_49.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h18_43.jpg",
-    "01 PROYECTOS/ATTACHMENTS/Pasted image 20240604161730.png",
     "01 PROYECTOS/ATTACHMENTS",
-    "03 RECURSOS/ATTACHMENTS/2024-06-04_16h13_41.jpg",
-    "03 RECURSOS/Best Practices for Wallet Security.md",
     "03 RECURSOS/Proof of Reserve.md",
     "03 RECURSOS/Private Key Security -- Seed Phrases.md",
     "03 RECURSOS/PEPE -- Meme.md",
@@ -281,12 +286,7 @@
     "03 RECURSOS/Private Key Security.md",
     "02 AREAS/Web3 Security Area.md",
     "03 RECURSOS/Choosing a Secure Exchange.md",
-    "03 RECURSOS/Web3 Security Area.md",
-    "03 RECURSOS/Introduction to Wallet Security.md",
-    "03 RECURSOS/Web3 Security with Skynet.md",
     "03 RECURSOS/ATTACHMENTS",
-    "03 RECURSOS/Welcome to Skynet Quest.md",
-    "01 PROYECTOS/Vottun.md",
     "vs pasivos beteamos grande por value en flop y",
     "000 📚 Bibliografía/Poker Fundamentos - DD/ATTACHMENTS",
     "TEMPLATES/ATTACHMENTS",
