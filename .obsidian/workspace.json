@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
+                "file": "03 RECURSOS/Advanced Formal Verification of ZK Proofs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
+                "file": "03 RECURSOS/Advanced Formal Verification of ZK Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
+                "file": "03 RECURSOS/Advanced Formal Verification of ZK Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md"
+                "file": "03 RECURSOS/Advanced Formal Verification of ZK Proofs.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 RECURSOS/Losses Related to Private Key Compromises.md",
+                "file": "03 RECURSOS/Advanced Formal Verification of ZK Proofs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,23 +249,25 @@
   },
   "active": "0309e60760523c2c",
   "lastOpenFiles": [
+    "03 RECURSOS/ATTACHMENTS/2024-06-08_11h56_40.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-08_11h54_54.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-08_11h51_10.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-08_11h50_09.jpg",
+    "01 PROYECTOS/Certik.md",
+    "03 RECURSOS/Advanced Formal Verification of ZK Proofs.md",
+    "03 RECURSOS/Common Web3 Phishing Methods.md",
+    "03 RECURSOS/ATTACHMENTS/2024-06-08_11h41_38.jpg",
+    "03 RECURSOS/ATTACHMENTS/2024-06-08_11h41_17.jpg",
+    "03 RECURSOS/Losses Related to Private Key Compromises.md",
     "03 RECURSOS/ATTACHMENTS/2024-06-07_19h26_21.jpg",
     "03 RECURSOS/ATTACHMENTS/Pasted image 20240607192844.png",
     "03 RECURSOS/ATTACHMENTS/2024-06-07_19h23_08.jpg",
-    "01 PROYECTOS/Certik.md",
-    "03 RECURSOS/Losses Related to Private Key Compromises.md",
     "03 RECURSOS/Introduction to User Security.md",
     "03 RECURSOS/ATTACHMENTS/2024-06-07_19h20_08.jpg",
     "03 RECURSOS/ATTACHMENTS/2024-06-07_19h19_43.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-07_19h16_10.jpg",
     "03 RECURSOS/Best Practices for Wallet Security.md",
     "03 RECURSOS/Introduction to Wallet Security.md",
     "03 RECURSOS/TON -- Layer 1.md",
-    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h54_50.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h53_52.jpg",
-    "03 RECURSOS/ATTACHMENTS/Pasted image 20240606115454.png",
-    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h52_42.jpg",
-    "03 RECURSOS/ATTACHMENTS/2024-06-06_11h48_15.jpg",
     "03 RECURSOS/Ondo Finance -- RWA.md",
     "03 RECURSOS/Important Exchange Security Features.md",
     "03 RECURSOS/Recognizing Risk Signals on the Exchange.md",
@@ -284,8 +286,6 @@
     "03 RECURSOS/Skynet Rating.md",
     "03 RECURSOS/Operational Security.md",
     "03 RECURSOS/Private Key Security.md",
-    "02 AREAS/Web3 Security Area.md",
-    "03 RECURSOS/Choosing a Secure Exchange.md",
     "03 RECURSOS/ATTACHMENTS",
     "vs pasivos beteamos grande por value en flop y",
     "000 📚 Bibliografía/Poker Fundamentos - DD/ATTACHMENTS",

@@ -23,6 +23,7 @@ Links:
 	- [ ] [[Important Exchange Security Features]]
 	- [ ] [[Introduction to User Security]]
 	- [ ] [[Losses Related to Private Key Compromises]]
+	- [ ] [[Common Web3 Phishing Methods]]
 - [ ] Skynet Rating
 	- [ ] [[Operational Security]]
 	- [ ] [[Team and Insider Risks]]
@@ -35,6 +36,8 @@ Links:
 	- [ ] [[PEPE -- Meme]]
 	- [ ] [[Ondo Finance -- RWA]]
 	- [ ] [[TON -- Layer 1]]
+- [ ] [[Blockchain Area]]
+	- [[Advanced Formal Verification of ZK Proofs]]
 ## Notas
 - 
 
