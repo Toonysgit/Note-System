@@ -24,6 +24,11 @@ Links:
 	- [ ] [[Introduction to User Security]]
 	- [ ] [[Losses Related to Private Key Compromises]]
 	- [ ] [[Common Web3 Phishing Methods]]
+	- [ ] [[Stay Vigilant on Browser Plugins]]
+	- [ ] [[Identifying and Avoiding Phishing Scams in X Replies]]
+	- [ ] [[Website & dApp Security]]
+	- [ ] [[Identifying Malicious Activity on Websites & dApps]]
+	- [ ] [[Intro to Airdrop Scams]]
 - [ ] Skynet Rating
 	- [ ] [[Operational Security]]
 	- [ ] [[Team and Insider Risks]]
@@ -36,6 +41,9 @@ Links:
 	- [ ] [[PEPE -- Meme]]
 	- [ ] [[Ondo Finance -- RWA]]
 	- [ ] [[TON -- Layer 1]]
+	- [ ] [[Edu3Labs -- The Future of Education]]
+	- [ ] [[Core DAO -- Infrastructure]]
+	- [ ] [[zkSwap Finance -- DeFi]]
 - [ ] [[Blockchain Area]]
 	- [[Advanced Formal Verification of ZK Proofs]]
 ## Notas
