@@ -48,3 +48,6 @@ Reporting Airdrop Scams
 If you encounter a scam, report it to the platform where you found it (e.g., X, Telegram), and inform the legitimate project community if it is being impersonated where possible. Use scam reporting tools and websites dedicated to tracking and exposing scams.
 
 ---
+![[2024-06-15_15h42_03.jpg]]
+
+![[2024-06-15_15h43_12.jpg]]

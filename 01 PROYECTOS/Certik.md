@@ -29,6 +29,9 @@ Links:
 	- [ ] [[Website & dApp Security]]
 	- [ ] [[Identifying Malicious Activity on Websites & dApps]]
 	- [ ] [[Intro to Airdrop Scams]]
+	- [ ] [[Importance of Bug Bounty Programs in Web3]]
+	- [ ] [[Intro to Crypto Drainers]]
+	- [ ] [[Evaluating Cryptocurrency News Sources]]
 - [ ] Skynet Rating
 	- [ ] [[Operational Security]]
 	- [ ] [[Team and Insider Risks]]
@@ -37,6 +40,7 @@ Links:
 	- [ ] [[Market-Related Risks]]
 	- [ ] [[CertiK Ventures]]
 	- [ ] [[Community and Security Risks in Web3]]
+	- [ ] [[Insights on Market Analytics]]
 - [ ] [[Proyect Focus]]
 	- [ ] [[PEPE -- Meme]]
 	- [ ] [[Ondo Finance -- RWA]]
@@ -44,6 +48,8 @@ Links:
 	- [ ] [[Edu3Labs -- The Future of Education]]
 	- [ ] [[Core DAO -- Infrastructure]]
 	- [ ] [[zkSwap Finance -- DeFi]]
+	- [ ] [[PAW Chain -- Ecosystem]]
+	- [ ] [[Ethena -- Stablecoin]]
 - [ ] [[Blockchain Area]]
 	- [[Advanced Formal Verification of ZK Proofs]]
 ## Notas
