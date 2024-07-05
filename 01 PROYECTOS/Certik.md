@@ -50,8 +50,12 @@ Links:
 	- [ ] [[zkSwap Finance -- DeFi]]
 	- [ ] [[PAW Chain -- Ecosystem]]
 	- [ ] [[Ethena -- Stablecoin]]
+	- [ ] [[Trinique -- RAT]]
+	- [ ] [[Mint Club -- Build Your Bonding Curve]]
 - [ ] [[Blockchain Area]]
 	- [[Advanced Formal Verification of ZK Proofs]]
+- [[CertiK Blog -- SkyKnight]]
+- [[CertiK Blog - SkyInsights -- Crypto Compliance]]
 ## Notas
 - 
 
